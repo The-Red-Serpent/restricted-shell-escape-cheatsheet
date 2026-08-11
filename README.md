@@ -1,4 +1,4 @@
-# Restricted Shell (rbash) — Bypass Techniques & Shell Stabilization
+# Restricted Shell (rbash) Bypass Techniques & Shell Stabilization
 
 
 ## What is a Restricted Shell?
